@@ -78,15 +78,6 @@ python swiftmart.py
 
 No separate database setup is required. The SQLite database file is automatically created on first run, making SwiftMart fully portable and easy to deploy.
 
-## 📁 Project Structure (Sample)
-
-```
-swiftmart-pos/
-│
-├── swiftmart.py
-└── README.md
-```
-
 ## 💡 Design Philosophy
 
 SwiftMart was built with minimal setup, offline-first functionality, lightweight deployment, enterprise-like features, extendable architecture, and clean, maintainable logic in mind. The goal was to create a zero-configuration POS system that can run immediately without complex infrastructure.
